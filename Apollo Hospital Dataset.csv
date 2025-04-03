@@ -1,0 +1,51 @@
+ID,Hospital,Department,Patients Treated,Avg Treatment Cost ($),Satisfaction Score,Mortality Rate (%),Readmission Rate (%),Success Rate (%),Revenue ($)
+1,MediCare Hospital,Oncology,397,2386.07,5.5,3.69,2.06,94.25,947269.79
+2,City General,Psychiatry,246,6168.46,8.9,4.37,13.44,82.19,1517441.16
+3,Global Health Center,Emergency,394,9342.35,8.1,1.25,7.74,91.01,3680885.9
+4,Pioneer Medical,Oncology,211,4890.02,7.9,2.4,5.66,91.94,1031794.22
+5,City General,Psychiatry,96,2324.3,5.1,4.42,11.97,83.61,223132.8
+6,Wellness Hospital,Psychiatry,412,7341.19,6.1,0.39,14.53,85.08,3024570.28
+7,MediCare Hospital,Oncology,411,3894.46,6.2,4.09,5.65,90.26,1600623.06
+8,Global Health Center,Oncology,399,5048.43,8.1,1.89,9.97,88.14,2014323.57
+9,City General,Cardiology,221,8975.32,8.8,3.45,3.82,92.73,1983545.72
+10,City General,Emergency,209,812.19,6.5,4.42,10.11,85.47,169747.71
+11,Global Health Center,Dermatology,318,620.75,7.4,2.34,14.18,83.48,197398.5
+12,MediCare Hospital,Emergency,470,7854.91,6,0.64,2.66,96.7,3691807.7
+13,MediCare Hospital,Emergency,67,5445.89,6.5,4.28,10.37,85.35,364874.63
+14,Wellness Hospital,Cardiology,491,1289.82,9.6,0.64,5.33,94.03,633301.62
+15,Wellness Hospital,Pediatrics,334,5225.8,9.5,4.43,10.93,84.64,1745417.2
+16,Global Health Center,Dermatology,492,5408.66,7.7,0.25,14.73,85.02,2661060.72
+17,Global Health Center,Oncology,133,3702.72,5.5,3.36,9.9,86.74,492461.76
+18,MediCare Hospital,Cardiology,61,5595.81,6.1,3.44,9.29,87.27,341344.41
+19,Pioneer Medical,Cardiology,236,7073.68,6.5,0.94,4.19,94.87,1669388.48
+20,Global Health Center,Emergency,320,6196.27,8.5,4.17,10.22,85.61,1982806.4
+21,MediCare Hospital,Emergency,396,7187.36,6.2,0.63,11.05,88.32,2846194.56
+22,Wellness Hospital,Pediatrics,205,7629.19,7,0.85,11.72,87.43,1563983.95
+23,Wellness Hospital,Cardiology,210,8654.25,7.2,0.94,9.24,89.82,1817392.5
+24,Global Health Center,Emergency,422,5193.1,8.6,2.31,5.82,91.87,2191488.2
+25,Global Health Center,Emergency,398,8581.57,8.8,0.24,3.61,96.15,3415464.86
+26,City General,Emergency,490,4874.8,6.8,3.48,6.34,90.18,2388652
+27,Pioneer Medical,Cardiology,83,3094.74,7.8,2.56,9.75,87.69,256863.42
+28,Global Health Center,Psychiatry,208,8323.82,6.5,4.82,5.98,89.2,1731354.56
+29,MediCare Hospital,Pediatrics,169,9031.19,7.2,2.63,14.43,82.94,1526271.11
+30,City General,Dermatology,448,2722.88,7.8,0.6,4.11,95.29,1219850.24
+31,Global Health Center,Neurology,381,4242.75,9.3,2.15,12.44,85.41,1616487.75
+32,MediCare Hospital,Orthopedics,210,934,9,4.47,4.88,90.65,196140
+33,MediCare Hospital,Oncology,175,9921.5,7.6,2.45,8.61,88.94,1736262.5
+34,Wellness Hospital,Pediatrics,178,6496.72,8.7,4.42,10.73,84.85,1156416.16
+35,City General,Oncology,224,5239.41,9.6,2.26,6.19,91.55,1173627.84
+36,Wellness Hospital,Orthopedics,162,7338.48,5.3,2.17,9.73,88.1,1188833.76
+37,Global Health Center,Pediatrics,460,7913.47,7,0.26,4.83,94.91,3640196.2
+38,City General,Oncology,485,3934.24,7,2.92,3.6,93.48,1908106.4
+39,Wellness Hospital,Oncology,328,6818.91,8.5,0.73,7.86,91.41,2236602.48
+40,Global Health Center,Dermatology,192,9446.13,5.9,1.29,13.95,84.76,1813656.96
+41,Wellness Hospital,Neurology,358,5448.69,6,1.41,4.31,94.28,1950631.02
+42,City General,Dermatology,479,4366.43,9.5,2.65,6.87,90.48,2091519.97
+43,Pioneer Medical,Dermatology,500,3816.91,5.9,2.05,7.59,90.36,1908455
+44,Pioneer Medical,Cardiology,100,6262.21,8.2,4.5,12.7,82.8,626221
+45,City General,Oncology,127,2562.1,7.3,2.02,11.82,86.16,325386.7
+46,Pioneer Medical,Pediatrics,273,5958.21,7.7,4.22,9.6,86.18,1626591.33
+47,Wellness Hospital,Pediatrics,455,9926.23,5.8,3.98,2.77,93.25,4516434.65
+48,City General,Cardiology,165,4254.63,6,1.59,3.52,94.89,702013.95
+49,Global Health Center,Oncology,445,7649.37,8.4,2.9,3.78,93.32,3403969.65
+50,MediCare Hospital,Neurology,210,7191.95,8.8,0.48,9.4,90.12,1510309.5
